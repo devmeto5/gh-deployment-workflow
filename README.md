@@ -2,7 +2,7 @@
 
 [roadmap.sh/projects](https://roadmap.sh/projects/github-actions-deployment-workflow)
 
-This project demonstrates how to create a simple static website and set up automatic deployment using GitHub Actions and GitHub Pages. This guide will help you understand the concepts of Continuous Integration and Continuous Deployment (CI/CD) by deploying changes automatically when they are made to the repository.
+This project demonstrates how to create a simple static website and set up automatic deployment using GitHub Actions and GitHub Pages. This guide will help you understand the concepts of Continuous Integration and Continuous Deployment (CI/CD) by deploying changes automatically when they are made to the repository
 
 ## Prerequisites
 
